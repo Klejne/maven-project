@@ -1,4 +1,4 @@
-package com.example;
+package.info.java
 
 /**
  * This is a class.
@@ -12,7 +12,7 @@ public class Greeter {
 
   }
 
-  //TODO: Add javadoc comment
+  //TODO: her skal være noget?
   public String greet(final String someone) {
     return String.format("Hello, %s!", someone);
   }
